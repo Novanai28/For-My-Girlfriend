@@ -97,7 +97,7 @@ function App() {
         >
           <div style={{ fontSize: "52px", marginBottom: "10px" }}>💌</div>
 
-          <h1 style={{ fontSize: "46px", fontWeight: "800" }}>
+          <h1 style={{ fontSize: "clamp(28px, 6vw, 46px)", fontWeight: "800", padding: "0 10px" }}>
             Hi Sayangkuuu 💖
           </h1>
 
