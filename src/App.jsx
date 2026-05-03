@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 import bgImage from "./images/My-fav.jpg";
-import music from "./music/music-1.mp3";
+import music from "./music/Music-1.mp3";
 
 function App() {
   const [open, setOpen] = useState(false);
